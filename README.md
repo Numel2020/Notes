@@ -1,6 +1,6 @@
 # Notes
-## 1. Setting up a JsCongfig file in react-app
-You can configure your application to support importing modules using absolute paths. This can be done by configuring a jsconfig.json or tsconfig.json file in the root of your project.
+## 1. Setting up a `JsCongfig.json` file in react-app
+You can configure your application to support importing modules using absolute paths. This can be done by configuring a `jsconfig.json` or `tsconfig.json` file in the root of your project.
 
 ```javascript
 {
