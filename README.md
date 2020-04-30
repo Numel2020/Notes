@@ -15,3 +15,4 @@ Now that you've configured your project to support absolute imports, if you want
 ```javascript
 import Button from 'components/Button';
 ```
+[jsconfig.json - What is jsconfig.json?]:https://code.visualstudio.com/docs/languages/jsconfig
