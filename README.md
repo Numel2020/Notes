@@ -16,3 +16,11 @@ Now that you've configured your project to support absolute imports, if you want
 import Button from 'components/Button';
 ```
 [jsconfig.json - What is jsconfig.json?](https://code.visualstudio.com/docs/languages/jsconfig)
+
+## 2. Creating a new package.json file
+To create a package.json file with values that you supply, use the npm init command.
+1. On the command line, navigate to the root directory of your package.
+```cd /path/to/package```
+2. Run the following command:
+  ```npm init```
+3. Answer the questions in the command line questionnaire.
