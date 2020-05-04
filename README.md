@@ -20,7 +20,11 @@ import Button from 'components/Button';
 ## 2. Creating a new package.json file
 To create a package.json file with values that you supply, use the npm init command.
 1. On the command line, navigate to the root directory of your package.
-```cd /path/to/package```
+```
+cd /path/to/package
+```
 2. Run the following command:
-  ```npm init```
+  ```
+  npm init
+  ```
 3. Answer the questions in the command line questionnaire.
