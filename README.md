@@ -28,3 +28,10 @@ cd /path/to/package
   npm init
   ```
 3. Answer the questions in the command line questionnaire.
+
+## 3. Which node?
+In the terminal type.
+```
+which node
+```
+Then you can see the path of your used node installation.
