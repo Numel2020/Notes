@@ -35,3 +35,12 @@ In the terminal type.
 which node
 ```
 Then you can see the path of your used node installation.
+
+## 4. iteration on HTML Collections
+In ES6, you could do something like `[...collection]`, or `Array.from(collection)`,
+```
+let someCollection = document.querySelectorAll(someSelector)
+[...someCollection].forEach(someFn) 
+//or
+Array.from(collection).forEach(someFn)
+```
