@@ -44,6 +44,6 @@ let someCollection = document.querySelectorAll(someSelector)
 //or
 Array.from(collection).forEach(someFn)
 ```
-## 5. hide Project tool window
+## 5. hide Project tool window in phpStorm
 Press cmd + 1
 
