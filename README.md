@@ -44,3 +44,6 @@ let someCollection = document.querySelectorAll(someSelector)
 //or
 Array.from(collection).forEach(someFn)
 ```
+## 5. hide Project tool window
+Press cmd + 1
+
