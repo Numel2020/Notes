@@ -46,6 +46,6 @@ Array.from(collection).forEach(someFn)
 ```
 ## 5. hide Project tool window in phpStorm
 Press cmd + 1
-## 6. zsh-shell 
-[1. make-an-alias](https://wpbeaches.com/make-an-alias-in-bash-or-zsh-shell-in-macos-with-terminal/)
+## 6. zsh-shell config
+[1. Make-an-alias](https://wpbeaches.com/make-an-alias-in-bash-or-zsh-shell-in-macos-with-terminal/)
 
