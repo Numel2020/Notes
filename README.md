@@ -53,3 +53,5 @@ Press cmd + 1
 
 [Using mongoose promises with async/await](https://stackoverflow.com/questions/46457071/using-mongoose-promises-with-async-await)
 
+[Intellij Idea warning - "Promise returned is ignored" with aysnc/await](https://stackoverflow.com/questions/41278900/intellij-idea-warning-promise-returned-is-ignored-with-aysnc-await)
+
