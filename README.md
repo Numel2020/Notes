@@ -50,5 +50,6 @@ Press cmd + 1
 [1. Make-an-alias](https://wpbeaches.com/make-an-alias-in-bash-or-zsh-shell-in-macos-with-terminal/)
 ## 7. Promises
 [What happens if you don't resolve or reject a promise?](https://stackoverflow.com/questions/36734900/what-happens-if-you-dont-resolve-or-reject-a-promise)
+
 [Using mongoose promises with async/await](https://stackoverflow.com/questions/46457071/using-mongoose-promises-with-async-await)
 
