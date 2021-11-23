@@ -58,3 +58,6 @@ Press cmd + 1
 ## 8. API
 [How to build node.js rest api with express](https://medium.com/bb-tutorials-and-thoughts/how-to-build-nodejs-rest-api-with-express-and-mongodb-fa6e1610ee1b)
 
+## 9. Mongoose
+[Close a mongoose connection](https://stackoverflow.com/questions/8813838/properly-close-mongooses-connection-once-youre-done)
+
