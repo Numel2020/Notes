@@ -79,6 +79,7 @@ To set node enviroment variable and check setting
 ```
 export NODE_ENV=production
 echo $NODE_ENV
+```
 
 You call list all variables for Macs available for your project directory with...
 ```
