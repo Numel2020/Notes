@@ -98,3 +98,6 @@ mkdir         - create new directory
 touch         - create a new file
 ```
 
+## 14. Logging
+[winston examples] (https://coralogix.com/blog/complete-winston-logger-guide-with-hands-on-examples/)
+
