@@ -91,3 +91,9 @@ printenv
 
 [Node running in production](https://gist.github.com/leommoore/5763232)
 
+## 13. Terminal
+```
+clear
+mkdir
+```
+
