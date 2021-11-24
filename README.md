@@ -85,4 +85,5 @@ You call list all variables for Macs available for your project directory with..
 ```
 printenv
 ```
+[Display NODE_ENV in command line](https://stackoverflow.com/questions/27935533/is-there-a-way-to-display-node-env-from-the-command-line)
 
