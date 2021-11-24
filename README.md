@@ -93,7 +93,8 @@ printenv
 
 ## 13. Terminal
 ```
-clear
-mkdir
+clear         - clear console window
+mkdir         - create new directory
+touch         - create a new file
 ```
 
