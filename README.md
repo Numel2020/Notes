@@ -68,3 +68,5 @@ Press cmd + 1
 
 [iamshaunjp - node-crash-course - Public](https://github.com/iamshaunjp/node-crash-course/blob/lesson-12/app.js)
 
+[trulymittal - Nodejs-REST-API - Public](https://github.com/trulymittal/Nodejs-REST-API/blob/master/Controllers/Product.Controller.js)
+
