@@ -74,3 +74,9 @@ Press cmd + 1
 
 [A Guide to Error Handling in Express.js](https://scoutapm.com/blog/express-error-handling)
 
+## 12. Node
+```
+export NODE_ENV=production
+echo $NODE_ENV
+```
+
