@@ -61,6 +61,8 @@ Press cmd + 1
 ## 9. Mongoose
 [Close a mongoose connection](https://stackoverflow.com/questions/8813838/properly-close-mongooses-connection-once-youre-done)
 
+[Mongoose connection events with createConnection](https://stackoverflow.com/questions/24100119/mongoose-connection-events-with-createconnection/53192759)
+
 ## 10. API and CRUD examples
 [bbachi - nodejs-restapi-mongo - Public](https://github.com/bbachi/nodejs-restapi-mongo/blob/main/config/db.config.js)
 
