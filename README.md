@@ -65,6 +65,8 @@ Press cmd + 1
 
 [MongoError: not authorized on to execute command { find: "app_updates", filter: { key: "0.0.1-admins" }, limit: 1, batchSize: 1, singleBatch: true }](https://stackoverflow.com/questions/47130379/mongoerror-not-authorized-on-to-execute-command-find-app-updates-filter)
 
+[User management in mongodb](https://scalegrid.io/blog/getting-started-with-user-management-in-mongodb/)
+
 ## 10. API and CRUD examples
 [bbachi - nodejs-restapi-mongo - Public](https://github.com/bbachi/nodejs-restapi-mongo/blob/main/config/db.config.js)
 
