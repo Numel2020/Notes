@@ -111,3 +111,5 @@ touch         - create a new file
 
 [Complete Winston Logger Guide With Hands-on Examples](https://coralogix.com/blog/complete-winston-logger-guide-with-hands-on-examples/)
 
+[Creating custom tokens](https://findthedifficult.com/creating-custom-tokens-in-morgan-the-node-js-logger-middleware/)
+
