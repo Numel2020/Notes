@@ -115,3 +115,5 @@ touch         - create a new file
 
 [Node Express.js and Morgan logging](https://documentation.solarwinds.com/en/success_center/loggly/content/admin/node-express-js-morgan-logging.htm)
 
+[Morgan NPM Logger – The Beginner’s Guide](https://coralogix.com/blog/morgan-npm-logger-the-complete-guide/)
+
