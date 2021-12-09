@@ -113,3 +113,5 @@ touch         - create a new file
 
 [Creating custom tokens](https://findthedifficult.com/creating-custom-tokens-in-morgan-the-node-js-logger-middleware/)
 
+[Node Express.js and Morgan logging](https://documentation.solarwinds.com/en/success_center/loggly/content/admin/node-express-js-morgan-logging.htm)
+
