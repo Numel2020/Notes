@@ -80,6 +80,8 @@ Press cmd + 1
 
 [A Guide to Error Handling in Express.js](https://scoutapm.com/blog/express-error-handling)
 
+[Create an Error handle for your express api](https://simonplend.com/how-to-create-an-error-handler-for-your-express-api/)
+
 ## 12. Node
 To set node enviroment variable and check setting
 ```
@@ -125,4 +127,5 @@ touch         - create a new file
 [Folder Structure for API's - Beginner, Intermediate, and Advanced](https://www.youtube.com/watch?v=oNlMrpnUSFE)
 
 [REST API Error Codes 101](https://blog.restcase.com/rest-api-error-codes-101/)
+
 
