@@ -124,3 +124,5 @@ touch         - create a new file
 
 [Folder Structure for API's - Beginner, Intermediate, and Advanced](https://www.youtube.com/watch?v=oNlMrpnUSFE)
 
+[REST API Error Codes 101](https://blog.restcase.com/rest-api-error-codes-101/)
+
