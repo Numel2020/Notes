@@ -82,6 +82,8 @@ Press cmd + 1
 
 [Create an Error handle for your express api](https://simonplend.com/how-to-create-an-error-handler-for-your-express-api/)
 
+[Error Handling Patterns in Express.js](https://medium.com/@zachcaceres/error-handling-patterns-in-express-js-6ba0fc943c91)
+
 ## 12. Node
 To set node enviroment variable and check setting
 ```
