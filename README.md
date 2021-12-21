@@ -86,6 +86,8 @@ Press cmd + 1
 
 [Express: scalable way to handle errors](https://dev.to/rajajaganathan/express-scalable-way-to-handle-errors-1kd6)
 
+[Part 2 | Error Handling in express | 404 | RESTful API using #NodeJS and #MySQL](https://www.youtube.com/watch?v=WgxhIZ6gz3E)
+
 ## 12. Node
 To set node enviroment variable and check setting
 ```
