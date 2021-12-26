@@ -78,6 +78,8 @@ Press cmd + 1
 
 [Tariqu - REST_API_WITH_MYSQL - Public](https://github.com/Tariqu/REST_API_WITH_MYSQL)
 
+[productioncoder - express-error-handling - Public](https://github.com/productioncoder/express-error-handling/blob/master/index.js)
+
 ## 11. Express
 
 [A Guide to Error Handling in Express.js](https://scoutapm.com/blog/express-error-handling)
