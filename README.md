@@ -76,6 +76,8 @@ Press cmd + 1
 
 [trulymittal - Nodejs-REST-API - Public](https://github.com/trulymittal/Nodejs-REST-API/blob/master/Controllers/Product.Controller.js)
 
+[Tariqu / REST_API_WITH_MYSQL - Public](https://github.com/Tariqu/REST_API_WITH_MYSQL)
+
 ## 11. Express
 
 [A Guide to Error Handling in Express.js](https://scoutapm.com/blog/express-error-handling)
