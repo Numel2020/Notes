@@ -90,6 +90,8 @@ Press cmd + 1
 
 [Express: scalable way to handle errors](https://dev.to/rajajaganathan/express-scalable-way-to-handle-errors-1kd6)
 
+[How to create an error handler for your Express API](https://simonplend.com/how-to-create-an-error-handler-for-your-express-api/#next-steps)
+
 [Part 2 | Error Handling in express | 404 | RESTful API using #NodeJS and #MySQL](https://www.youtube.com/watch?v=WgxhIZ6gz3E)
 
 ## 12. Node
