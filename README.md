@@ -142,4 +142,6 @@ touch         - create a new file
 
 [REST API Error Codes 101](https://blog.restcase.com/rest-api-error-codes-101/)
 
+[Server-Side Validation with API Descriptions](https://apisyouwonthate.com/blog/server-side-validation-with-api-descriptions)
+
 
