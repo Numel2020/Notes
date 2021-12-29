@@ -94,7 +94,11 @@ Press cmd + 1
 
 [How to create an error handler for your Express API](https://simonplend.com/how-to-create-an-error-handler-for-your-express-api/#next-steps)
 
+### youtube
+
 [Part 2 | Error Handling in express | 404 | RESTful API using #NodeJS and #MySQL](https://www.youtube.com/watch?v=WgxhIZ6gz3E)
+
+[express-validator Node.js tutorial](https://www.youtube.com/watch?v=7i7xmwowwCY)
 
 ## 12. Node
 To set node enviroment variable and check setting
