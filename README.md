@@ -94,6 +94,8 @@ Press cmd + 1
 
 [How to create an error handler for your Express API](https://simonplend.com/how-to-create-an-error-handler-for-your-express-api/#next-steps)
 
+[Is it a good practice to use both Joi and express-validator?](https://stackoverflow.com/questions/63550183/is-it-a-good-practice-to-use-both-joi-and-express-validator)
+
 ### youtube
 
 [Part 2 | Error Handling in express | 404 | RESTful API using #NodeJS and #MySQL](https://www.youtube.com/watch?v=WgxhIZ6gz3E)
