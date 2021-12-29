@@ -96,6 +96,8 @@ Press cmd + 1
 
 [Is it a good practice to use both Joi and express-validator?](https://stackoverflow.com/questions/63550183/is-it-a-good-practice-to-use-both-joi-and-express-validator)
 
+[How to choose which validator to use: a comparison between Joi & express-validator](https://www.freecodecamp.org/news/how-to-choose-which-validator-to-use-a-comparison-between-joi-express-validator-ac0b910c1a8c/)
+
 ### youtube
 
 [Part 2 | Error Handling in express | 404 | RESTful API using #NodeJS and #MySQL](https://www.youtube.com/watch?v=WgxhIZ6gz3E)
