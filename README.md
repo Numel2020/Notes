@@ -157,4 +157,7 @@ touch         - create a new file
 
 [Server-Side Validation with API Descriptions](https://apisyouwonthate.com/blog/server-side-validation-with-api-descriptions)
 
+### API responses
+[api-requests and responses](https://docs.beeswax.com/docs/api-requests-and-responses)
+
 
