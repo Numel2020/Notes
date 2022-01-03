@@ -95,6 +95,9 @@ Press cmd + 1
 [How to create an error handler for your Express API](https://simonplend.com/how-to-create-an-error-handler-for-your-express-api/#next-steps)
 
 
+
+
+
 ### youtube
 
 [Part 2 | Error Handling in express | 404 | RESTful API using #NodeJS and #MySQL](https://www.youtube.com/watch?v=WgxhIZ6gz3E)
@@ -153,11 +156,14 @@ touch         - create a new file
 
 [Folder Structure for API's - Beginner, Intermediate, and Advanced](https://www.youtube.com/watch?v=oNlMrpnUSFE)
 
-[REST API Error Codes 101](https://blog.restcase.com/rest-api-error-codes-101/)
-
 [Server-Side Validation with API Descriptions](https://apisyouwonthate.com/blog/server-side-validation-with-api-descriptions)
+
+[Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
 ### API responses
 [api-requests and responses](https://docs.beeswax.com/docs/api-requests-and-responses)
+
+### API errors
+[REST API Error Codes 101](https://blog.restcase.com/rest-api-error-codes-101/)
 
 
