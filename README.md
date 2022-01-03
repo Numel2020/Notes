@@ -164,6 +164,8 @@ touch         - create a new file
 
 [REST: Good Practices for API Design](https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9)
 
+[Four REST API Versioning Strategies](https://www.xmatters.com/blog/blog-four-rest-api-versioning-strategies/)
+
 ### API responses
 [api-requests and responses](https://docs.beeswax.com/docs/api-requests-and-responses)
 
