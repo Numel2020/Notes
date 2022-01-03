@@ -160,6 +160,8 @@ touch         - create a new file
 
 [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
+[REST API Best Practices – REST Endpoint Design Examples](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/)
+
 ### API responses
 [api-requests and responses](https://docs.beeswax.com/docs/api-requests-and-responses)
 
