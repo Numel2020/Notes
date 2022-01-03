@@ -162,6 +162,8 @@ touch         - create a new file
 
 [REST API Best Practices – REST Endpoint Design Examples](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/)
 
+[REST: Good Practices for API Design](https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9)
+
 ### API responses
 [api-requests and responses](https://docs.beeswax.com/docs/api-requests-and-responses)
 
