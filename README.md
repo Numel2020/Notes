@@ -112,6 +112,11 @@ Press cmd + 1
 
 [How to choose which validator to use: a comparison between Joi & express-validator](https://www.freecodecamp.org/news/how-to-choose-which-validator-to-use-a-comparison-between-joi-express-validator-ac0b910c1a8c/)
 
+### Jest, test and mocks
+
+[Sam-Meech-Ward - express_jest_and_mocks Public](https://github.com/Sam-Meech-Ward/express_jest_and_mocks/blob/master/app.js)
+
+
 ## 12. Node
 To set node enviroment variable and check setting
 ```
