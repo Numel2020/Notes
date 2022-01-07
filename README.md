@@ -116,6 +116,8 @@ Press cmd + 1
 
 [Sam-Meech-Ward - express_jest_and_mocks Public](https://github.com/Sam-Meech-Ward/express_jest_and_mocks/blob/master/app.js)
 
+[rahmanfadhil - learn-supertest Public](https://github.com/rahmanfadhil/learn-supertest)
+
 
 ## 12. Node
 To set node enviroment variable and check setting
