@@ -36,6 +36,10 @@ which node
 ```
 Then you can see the path of your used node installation.
 
+### Updating node
+
+[n – Interactively Manage Your Node.js Versions](https://github.com/tj/n)
+
 ## 4. iteration on HTML Collections
 In ES6, you could do something like `[...collection]`, or `Array.from(collection)`,
 ```
