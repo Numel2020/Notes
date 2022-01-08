@@ -122,6 +122,8 @@ Press cmd + 1
 
 [rahmanfadhil - learn-supertest Public](https://github.com/rahmanfadhil/learn-supertest)
 
+[TomDoesTech - Testing-Express-REST-API Public](https://github.com/TomDoesTech/Testing-Express-REST-API/blob/main/src/__tests__/user.test.ts)
+
 ### mongodb-memory-server
 
 [Integration with Test Runners](https://nodkz.github.io/mongodb-memory-server/docs/guides/integration-examples/test-runners)
