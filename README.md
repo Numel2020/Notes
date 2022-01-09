@@ -130,6 +130,10 @@ Press cmd + 1
 
 [Integration with Test Runners](https://nodkz.github.io/mongodb-memory-server/docs/guides/integration-examples/test-runners)
 
+### jest
+
+[What's the difference between '.toMatchObject' and 'objectContaining'](https://stackoverflow.com/questions/45692456/whats-the-difference-between-tomatchobject-and-objectcontaining)
+
 
 ## 12. Node
 To set node enviroment variable and check setting
