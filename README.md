@@ -198,3 +198,5 @@ touch         - create a new file
 ## JWT Authentication
 
 [6 Minute Overview of Implementing JWT Authentication](https://www.youtube.com/watch?v=1HHrkZ6h0Z0)
+
+[Learn JWT in 10 Minutes with Express, Node, and Cookie Parser](https://www.youtube.com/watch?v=dX_LteE0NFM)
