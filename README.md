@@ -195,4 +195,6 @@ touch         - create a new file
 ### API errors
 [REST API Error Codes 101](https://blog.restcase.com/rest-api-error-codes-101/)
 
+## JWT Authentication
 
+[6 Minute Overview of Implementing JWT Authentication](https://www.youtube.com/watch?v=1HHrkZ6h0Z0)
