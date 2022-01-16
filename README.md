@@ -201,6 +201,8 @@ touch         - create a new file
 
 [Learn JWT in 10 Minutes with Express, Node, and Cookie Parser](https://www.youtube.com/watch?v=dX_LteE0NFM)
 
+[JWT Authentication Tutorial - Node.js and React](https://www.youtube.com/watch?v=Yh5Lil03tpI&t=1039s)
+
 ## Roles
 [Role Based API Authentication | Node Express MongoDB | Part 1](https://www.youtube.com/watch?v=QbgJgZY7vBM)
 
