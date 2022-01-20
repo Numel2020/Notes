@@ -203,6 +203,10 @@ touch         - create a new file
 
 [JWT Authentication Tutorial - Node.js and React](https://www.youtube.com/watch?v=Yh5Lil03tpI&t=1039s)
 
+## API Keys
+
+[Best practices for building secure API Keys](https://www.freecodecamp.org/news/best-practices-for-building-api-keys-97c26eabfea9)
+
 ## Roles
 [Role Based API Authentication | Node Express MongoDB | Part 1](https://www.youtube.com/watch?v=QbgJgZY7vBM)
 
