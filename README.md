@@ -205,6 +205,8 @@ touch         - create a new file
 
 [JWT Refresh Token | Node.js Tutorial](https://www.youtube.com/watch?v=jHQAfPFrTPo)
 
+[JWT Authentication | Node JS and Express tutorials for Beginners](https://www.youtube.com/watch?v=favjC6EKFgw)
+
 ## refresh tokens
 
 [Authentication With Refresh Tokens Implementation #benaward](https://www.youtube.com/watch?v=UA0AIkjI85c)
