@@ -209,6 +209,8 @@ touch         - create a new file
 
 [Authentication With Refresh Tokens Implementation #benaward](https://www.youtube.com/watch?v=UA0AIkjI85c)
 
+[Different Authentication Methods for Handling JWT Tokens(https://www.youtube.com/watch?v=wKkKFkeqFEU)
+
 ## API Keys
 
 [Best practices for building secure API Keys](https://www.freecodecamp.org/news/best-practices-for-building-api-keys-97c26eabfea9)
