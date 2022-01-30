@@ -209,7 +209,7 @@ touch         - create a new file
 
 [Authentication With Refresh Tokens Implementation #benaward](https://www.youtube.com/watch?v=UA0AIkjI85c)
 
-[Different Authentication Methods for Handling JWT Tokens(https://www.youtube.com/watch?v=wKkKFkeqFEU)
+[Different Authentication Methods for Handling JWT Tokens](https://www.youtube.com/watch?v=wKkKFkeqFEU)
 
 ## API Keys
 
