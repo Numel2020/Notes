@@ -207,6 +207,12 @@ touch         - create a new file
 
 [JWT Authentication | Node JS and Express tutorials for Beginners](https://www.youtube.com/watch?v=favjC6EKFgw)
 
+### Ben Awad - JWT series
+
+[GraphQL JWT Authentication Implementation - part 1](https://www.youtube.com/watch?v=RUZB8tpyDbQ)
+
+[GraphQL Refresh and Invalidate JWTs - part 2](https://www.youtube.com/watch?v=KkkdwK1VbLc)
+
 ## refresh tokens
 
 [Authentication With Refresh Tokens Implementation #benaward](https://www.youtube.com/watch?v=UA0AIkjI85c)
