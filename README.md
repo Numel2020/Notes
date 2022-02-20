@@ -189,6 +189,10 @@ touch         - create a new file
 
 [Four REST API Versioning Strategies](https://www.xmatters.com/blog/blog-four-rest-api-versioning-strategies/)
 
+### Api examples
+
+[TomDoesTech REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated)
+
 ### API responses
 [api-requests and responses](https://docs.beeswax.com/docs/api-requests-and-responses)
 
