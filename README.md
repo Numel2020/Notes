@@ -217,6 +217,8 @@ touch         - create a new file
 
 [GraphQL Refresh and Invalidate JWTs - part 2](https://www.youtube.com/watch?v=KkkdwK1VbLc)
 
+[benawad - graphql-express-template](https://github.com/benawad/graphql-express-template)
+
 ### JWT - theory
 
 [verify-a-jwt-token-string-containing-bearer-with-nodejs](https://stackoverflow.com/questions/39992774/verify-a-jwt-token-string-containing-bearer-with-nodejs/51963067)
