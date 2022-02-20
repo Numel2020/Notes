@@ -213,7 +213,11 @@ touch         - create a new file
 
 [GraphQL Refresh and Invalidate JWTs - part 2](https://www.youtube.com/watch?v=KkkdwK1VbLc)
 
-## refresh tokens
+### JWT - theory
+
+[verify-a-jwt-token-string-containing-bearer-with-nodejs](https://stackoverflow.com/questions/39992774/verify-a-jwt-token-string-containing-bearer-with-nodejs/51963067)
+
+### refresh tokens
 
 [Authentication With Refresh Tokens Implementation #benaward](https://www.youtube.com/watch?v=UA0AIkjI85c)
 
