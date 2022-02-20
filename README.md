@@ -219,6 +219,9 @@ touch         - create a new file
 
 [benawad - graphql-express-template](https://github.com/benawad/graphql-express-template)
 
+### gitdagray
+[Express JS Tutorial - JWT Protected Routes](https://github.com/gitdagray/express_jwt)
+
 ### JWT - theory
 
 [verify-a-jwt-token-string-containing-bearer-with-nodejs](https://stackoverflow.com/questions/39992774/verify-a-jwt-token-string-containing-bearer-with-nodejs/51963067)
