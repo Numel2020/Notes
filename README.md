@@ -217,6 +217,8 @@ touch         - create a new file
 
 [verify-a-jwt-token-string-containing-bearer-with-nodejs](https://stackoverflow.com/questions/39992774/verify-a-jwt-token-string-containing-bearer-with-nodejs/51963067)
 
+[JWT.IO allows you to decode, verify and generate JWT](https://jwt.io/)
+
 ### refresh tokens
 
 [Authentication With Refresh Tokens Implementation #benaward](https://www.youtube.com/watch?v=UA0AIkjI85c)
