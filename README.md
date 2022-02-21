@@ -219,6 +219,8 @@ touch         - create a new file
 
 [benawad - graphql-express-template](https://github.com/benawad/graphql-express-template)
 
+[benawad - jwt-auth-example](https://github.com/benawad/jwt-auth-example/blob/master/server/src/auth.ts)
+
 ### gitdagray
 [Express JS Tutorial - JWT Protected Routes](https://github.com/gitdagray/express_jwt)
 
