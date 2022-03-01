@@ -244,3 +244,5 @@ touch         - create a new file
 [Role Based API Authentication | Node Express MongoDB | Part 1](https://www.youtube.com/watch?v=QbgJgZY7vBM)
 
 [Role Based API Authentication | Node Express MongoDB | Part 2](https://www.youtube.com/watch?v=VXzluXTBFF8)
+
+[Implementing Role-Based Access Control in a Node.js application](https://soshace.com/implementing-role-based-access-control-in-a-node-js-application/)
