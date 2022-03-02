@@ -246,3 +246,5 @@ touch         - create a new file
 [Role Based API Authentication | Node Express MongoDB | Part 2](https://www.youtube.com/watch?v=VXzluXTBFF8)
 
 [Implementing Role-Based Access Control in a Node.js application](https://soshace.com/implementing-role-based-access-control-in-a-node-js-application/)
+
+[What is the best way to implement roles and permission in Express REST Api](https://stackoverflow.com/questions/38893178/what-is-the-best-way-to-implement-roles-and-permission-in-express-rest-api)
