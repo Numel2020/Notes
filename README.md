@@ -250,3 +250,5 @@ touch         - create a new file
 [What is the best way to implement roles and permission in Express REST Api](https://stackoverflow.com/questions/38893178/what-is-the-best-way-to-implement-roles-and-permission-in-express-rest-api)
 
 [Node.js - Role Based Authorization Tutorial with Example API](https://jasonwatmore.com/post/2018/11/28/nodejs-role-based-authorization-tutorial-with-example-api)
+
+[How to implement dynamic Role-based Access Control (RBAC) in Express JS REST API.](https://dev.to/richienabuk/how-to-implement-dynamic-role-based-access-control-rbac-in-express-js-rest-api-54fe)
