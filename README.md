@@ -252,3 +252,8 @@ touch         - create a new file
 [Node.js - Role Based Authorization Tutorial with Example API](https://jasonwatmore.com/post/2018/11/28/nodejs-role-based-authorization-tutorial-with-example-api)
 
 [How to implement dynamic Role-based Access Control (RBAC) in Express JS REST API.](https://dev.to/richienabuk/how-to-implement-dynamic-role-based-access-control-rbac-in-express-js-rest-api-54fe)
+
+### seed a mongo database
+[Igbo API](https://github.com/ijemmao/igbo_api)
+
+[Seeding a MongoDB Database with NodeJS and Express for the Igbo Dictionary API](https://www.youtube.com/watch?v=fBQe3ZRPVdI)
