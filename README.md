@@ -86,6 +86,10 @@ Press cmd + 1
 
 [larswaechter - expressjs-api - Public](https://github.com/larswaechter/expressjs-api/blob/main/src/api/middleware/index.ts)
 
+## 10.9. API Documentation examples
+
+[FusionAuth APIs](https://fusionauth.io/docs/v1/tech/apis/api-keys)
+
 ## 11. Express
 
 [A Guide to Error Handling in Express.js](https://scoutapm.com/blog/express-error-handling)
