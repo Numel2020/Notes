@@ -198,6 +198,7 @@ touch         - create a new file
 ### Api examples
 
 [TomDoesTech REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated)
+[TomDoesTech Auth-api-tutorial - Public](https://github.com/TomDoesTech/auth-api-tutorial)
 
 ### API responses
 [api-requests and responses](https://docs.beeswax.com/docs/api-requests-and-responses)
