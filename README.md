@@ -246,6 +246,8 @@ touch         - create a new file
 
 [Best practices for building secure API Keys](https://www.freecodecamp.org/news/best-practices-for-building-api-keys-97c26eabfea9)
 
+[How the Heck Do API Keys Work?](https://www.youtube.com/watch?v=cF_MCAmuoI4)
+
 ## Roles
 [Role Based API Authentication | Node Express MongoDB | Part 1](https://www.youtube.com/watch?v=QbgJgZY7vBM)
 
