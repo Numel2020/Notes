@@ -248,6 +248,8 @@ touch         - create a new file
 
 [How the Heck Do API Keys Work?](https://www.youtube.com/watch?v=cF_MCAmuoI4)
 
+[Generating Your Own API Tokens for a Node + Express API - 1,000 Subscribers 🎉🎉](https://www.youtube.com/watch?v=fmGBz2CAEeM&t=578s)
+
 ## Roles
 [Role Based API Authentication | Node Express MongoDB | Part 1](https://www.youtube.com/watch?v=QbgJgZY7vBM)
 
