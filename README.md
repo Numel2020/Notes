@@ -247,6 +247,8 @@ touch         - create a new file
 
 [How the Heck Do API Keys Work?](https://www.youtube.com/watch?v=cF_MCAmuoI4)
 
+[How to api](https://github.com/prof3ssorSt3v3/how-to-api)
+
 [Generating Your Own API Tokens for a Node + Express API - 1,000 Subscribers 🎉🎉](https://www.youtube.com/watch?v=fmGBz2CAEeM&t=578s)
 
 [Best practices for building secure API Keys](https://www.freecodecamp.org/news/best-practices-for-building-api-keys-97c26eabfea9)
