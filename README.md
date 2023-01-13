@@ -71,6 +71,10 @@ Press cmd + 1
 
 [User management in mongodb](https://scalegrid.io/blog/getting-started-with-user-management-in-mongodb/)
 
+[Using mongorestore for Restoring MongoDB Backups](https://www.bmc.com/blogs/mongodb-mongorestore/)
+
+[How To Use mongodump for MongoDB Backups](https://www.bmc.com/blogs/mongodb-mongodump/)
+
 ## 10. API and CRUD examples
 [bbachi - nodejs-restapi-mongo - Public](https://github.com/bbachi/nodejs-restapi-mongo/blob/main/config/db.config.js)
 
