@@ -95,6 +95,8 @@ Press cmd + 1
 
 [FusionAuth APIs](https://fusionauth.io/docs/v1/tech/apis/api-keys)
 
+[Posit Connect](https://docs.posit.co/connect/user/api-keys/)
+
 [Knowledge Base](https://support.flatfile.com/hc/en-us/articles/4406299638932-How-can-I-create-API-Keys-?campaignid=15403546517&adgroupid=129024558703&network=g&creative=565754187322&keyword=&matchtype=&placement=&targetid=dsa-19959388920&target=&device=c&device_model=&GA_loc_physical_ms=9046356&adposition=&GA_loc_interest_ms=&feed_item_id=&random=16761473912006351829&utm_term=&utm_campaign=Dynamic+Search+Ads&utm_source=adwords&utm_medium=ppc&hsa_acc=3330093901&hsa_cam=15403546517&hsa_grp=129024558703&hsa_ad=565754187322&hsa_src=g&hsa_tgt=dsa-19959388920&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwu_mSBhAYEiwA5BBmf7xTQNzbLuFPm-qwjq-IWF6dfhJ7tYkXZOnBYePXV-6Ns4G3EgYYyxoCkNoQAvD_BwE)
 
 ## 11. Express
