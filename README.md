@@ -285,6 +285,10 @@ touch         - create a new file
 [Upload Image to Google drive with Node Js]([https://www.youtube.com/watch?v=-YZRkIbNWY0&t=18s](https://www.daimto.com/upload-image-to-google-drive-with-node-js/))
 
 ## GPG
+To run:
+```
+$ gpg --full-gen-key
+```
 
 [Basic File Encryption with GPG key pairs!](https://www.youtube.com/watch?v=DMGIlj7u7Eo)
 
