@@ -282,7 +282,7 @@ touch         - create a new file
 ### google drive api
 [How to upload image to Google Drive using Node js](https://www.youtube.com/watch?v=-YZRkIbNWY0&t=18s)
 
-[Upload Image to Google drive with Node Js]([https://www.youtube.com/watch?v=-YZRkIbNWY0&t=18s](https://www.daimto.com/upload-image-to-google-drive-with-node-js/))
+[Upload Image to Google drive with Node Js](https://www.youtube.com/watch?v=-YZRkIbNWY0&t=18s](https://www.daimto.com/upload-image-to-google-drive-with-node-js/)
 
 ## GPG
 To run:
