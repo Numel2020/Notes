@@ -284,6 +284,8 @@ touch         - create a new file
 
 [Upload Image to Google drive with Node Js](https://www.daimto.com/upload-image-to-google-drive-with-node-js)
 
+[Google-auth-library documentation](https://googleapis.dev/nodejs/google-auth-library/5.10.1/classes/JWT.html#info)
+
 ## GPG
 To run:
 ```
