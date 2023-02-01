@@ -302,6 +302,6 @@ $ gpg --full-gen-key
 
 [Dropbox Node SDK](https://dropbox.github.io/dropbox-sdk-js/global.html#FilesUploadArg__anchor)
 
-[dropbox/dropbox-sdk-js](https://github.com/dropbox/dropbox-sdk-js/blob/main/examples/javascript/simple-backend/code_flow_example.js#L38)
+[Dropbox/dropbox-sdk-js](https://github.com/dropbox/dropbox-sdk-js/blob/main/examples/javascript/simple-backend/code_flow_example.js#L38)
 
 
