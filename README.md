@@ -288,6 +288,8 @@ touch         - create a new file
 
 [What keyFile key does google.auth.GoogleAuth() need?](https://stackoverflow.com/questions/60574191/what-keyfile-key-does-google-auth-googleauth-need)
 
+[Where do I get Google Drive Folder, Shared Drive, or File ID?](https://robindirksen.com/blog/where-do-i-get-google-drive-folder-id)
+
 
 ## GPG
 To run:
