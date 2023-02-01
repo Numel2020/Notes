@@ -294,4 +294,14 @@ $ gpg --full-gen-key
 
 [Install GPG on Mac without GPG Tools](https://mikeross.xyz/gpg-without-gpgtools-on-mac/)
 
+## Dropbox API
+
+[Using Dropbox as a headless CMS for a static blog](https://www.codemzy.com/blog/dropbox-headless-cms)
+
+[How to get long lived access (refresh) tokens for Dropbox developer apps](https://www.codemzy.com/blog/dropbox-long-lived-access-refresh-token)
+
+[Dropbox Node SDK](https://dropbox.github.io/dropbox-sdk-js/global.html#FilesUploadArg__anchor)
+
+[dropbox/dropbox-sdk-js](https://github.com/dropbox/dropbox-sdk-js/blob/main/examples/javascript/simple-backend/code_flow_example.js#L38)
+
 
