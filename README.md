@@ -311,4 +311,8 @@ $ gpg --full-gen-key
 
 [Dropbox/dropbox-sdk-js](https://github.com/dropbox/dropbox-sdk-js/blob/main/examples/javascript/simple-backend/code_flow_example.js#L38)
 
+## Github 
+
+[Why The Action Cannot Access Secrets?](https://stackoverflow.com/questions/61308519/why-the-action-cannot-access-secrets/61313152#61313152)
+
 
