@@ -317,6 +317,8 @@ $ gpg --full-gen-key
 
 [How can I install Mongodb database tools on Github actions?](https://www.mongodb.com/community/forums/t/how-can-i-install-mongodb-database-tools-on-github-actions/208006)
 
+[How to Build CI/CD Pipelines for MongoDB Realm Apps Using GitHub Actions](https://www.mongodb.com/developer/products/realm/build-ci-cd-pipelines-realm-apps-github-actions/)
+
 
 
 
