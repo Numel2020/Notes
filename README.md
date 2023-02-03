@@ -324,6 +324,8 @@ $ gpg --full-gen-key
 realm-demos
 Public](https://github.com/mongodb-developer/realm-demos/blob/main/.github/workflows/build.yml)
 
+[Quick'n easy gpg cheatsheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
+
 
 
 
