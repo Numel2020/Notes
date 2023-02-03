@@ -315,4 +315,8 @@ $ gpg --full-gen-key
 
 [Why The Action Cannot Access Secrets?](https://stackoverflow.com/questions/61308519/why-the-action-cannot-access-secrets/61313152#61313152)
 
+[How can I install Mongodb database tools on Github actions?](https://www.mongodb.com/community/forums/t/how-can-i-install-mongodb-database-tools-on-github-actions/208006)
+
+
+
 
