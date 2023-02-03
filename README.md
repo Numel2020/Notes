@@ -301,6 +301,8 @@ $ gpg --full-gen-key
 
 [Install GPG on Mac without GPG Tools](https://mikeross.xyz/gpg-without-gpgtools-on-mac/)
 
+[Quick'n easy gpg cheatsheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
+
 ## Dropbox API
 
 [Using Dropbox as a headless CMS for a static blog](https://www.codemzy.com/blog/dropbox-headless-cms)
@@ -324,7 +326,7 @@ $ gpg --full-gen-key
 realm-demos
 Public](https://github.com/mongodb-developer/realm-demos/blob/main/.github/workflows/build.yml)
 
-[Quick'n easy gpg cheatsheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
+
 
 
 
