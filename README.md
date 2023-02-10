@@ -317,7 +317,7 @@ $ gpg --full-gen-key
 
 [Dropbox/dropbox-sdk-js](https://github.com/dropbox/dropbox-sdk-js/blob/main/examples/javascript/simple-backend/code_flow_example.js#L38)
 
-## Github 
+## Github Workflows
 
 [Why The Action Cannot Access Secrets?](https://stackoverflow.com/questions/61308519/why-the-action-cannot-access-secrets/61313152#61313152)
 
@@ -329,6 +329,8 @@ $ gpg --full-gen-key
 /
 realm-demos
 Public](https://github.com/mongodb-developer/realm-demos/blob/main/.github/workflows/build.yml)
+
+[GitHub Actions — Exporting Multi-Line / One-Line Value Environment Variable](https://medium.com/@ibraheemabukaff/github-actions-exporting-multi-line-one-line-value-environment-variable-5bb86d01e866)
 
 
 
