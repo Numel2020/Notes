@@ -294,6 +294,17 @@ touch         - create a new file
 
 [Where do I get Google Drive Folder, Shared Drive, or File ID?](https://robindirksen.com/blog/where-do-i-get-google-drive-folder-id)
 
+### Key concerns
+[Error 1e08010c decoder routines unsupported with google auth library](https://stackoverflow.com/questions/74131595/error-error1e08010cdecoder-routinesunsupported-with-google-auth-library)
+
+[Adding rsa key in device variables](https://forums.balena.io/t/adding-rsa-key-in-device-variables/362396/9)
+
+[What are the different formats of private key and certificates](https://www.googlecloudcommunity.com/gc/Apigee/What-are-the-different-formats-of-private-key-and-certificates/m-p/55180)
+
+[Stop downloading google cloud service account keys](https://jryancanty.medium.com/stop-downloading-google-cloud-service-account-keys-1811d44a97d9)
+
+[Using private key in a env file](https://stackoverflow.com/questions/55459528/using-private-key-in-a-env-file)
+
 
 ## GPG
 To run:
