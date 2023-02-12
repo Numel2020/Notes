@@ -332,6 +332,11 @@ Public](https://github.com/mongodb-developer/realm-demos/blob/main/.github/workf
 
 [GitHub Actions — Exporting Multi-Line / One-Line Value Environment Variable](https://medium.com/@ibraheemabukaff/github-actions-exporting-multi-line-one-line-value-environment-variable-5bb86d01e866)
 
+## KEYS
+```
+const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\n".split(String.raw`\n`).join("\n");
+```
+
 
 
 
