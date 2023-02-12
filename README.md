@@ -307,6 +307,12 @@ $ gpg --full-gen-key
 
 [Quick'n easy gpg cheatsheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
 
+[Gpg-xxxxxxxx-skipped-public-key-not-found](https://stackoverflow.com/questions/57251111/gpg-xxxxxxxx-skipped-public-key-not-found)
+
+[There is no assurance this key belongs to the named user](https://stackoverflow.com/questions/33361068/gnupg-there-is-no-assurance-this-key-belongs-to-the-named-user)
+
+[How to make auto trust gpg public-key](https://stackoverflow.com/questions/13116457/how-to-make-auto-trust-gpg-public-key)
+
 ## Dropbox API
 
 [Using Dropbox as a headless CMS for a static blog](https://www.codemzy.com/blog/dropbox-headless-cms)
