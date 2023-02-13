@@ -69,6 +69,19 @@ Press cmd + 1
 
 [MongoDB Atlas Administration API (1.0)](https://www.mongodb.com/docs/atlas/reference/api-resources-spec/)
 
+```javascript
+// to embed a document
+const Competitor = require("./competitor");
+
+competitor: new Schema( Competitor.schema)
+
+// to reference a document
+ competitor: {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "Competitor"
+    },
+```
+
 
 ## 9. Mongoose
 [Close a mongoose connection](https://stackoverflow.com/questions/8813838/properly-close-mongooses-connection-once-youre-done)
