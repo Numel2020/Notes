@@ -65,6 +65,10 @@ Press cmd + 1
 ## 9. MongoDB
 [How To Design a Document Schema in MongoDB](https://www.digitalocean.com/community/tutorials/how-to-design-a-document-schema-in-mongodb)
 
+[Manage Deployments with the Atlas Administration API](https://www.mongodb.com/docs/atlas/api/atlas-admin-api/)
+
+[MongoDB Atlas Administration API (1.0)](https://www.mongodb.com/docs/atlas/reference/api-resources-spec/)
+
 
 ## 9. Mongoose
 [Close a mongoose connection](https://stackoverflow.com/questions/8813838/properly-close-mongooses-connection-once-youre-done)
