@@ -328,6 +328,10 @@ To run:
 ```
 $ gpg --full-gen-key
 ```
+List keys that you have
+```
+$ gpg --list-keys
+```
 
 [Basic File Encryption with GPG key pairs!](https://www.youtube.com/watch?v=DMGIlj7u7Eo)
 
