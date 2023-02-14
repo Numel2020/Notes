@@ -328,7 +328,7 @@ To run:
 ```
 $ gpg --full-gen-key
 ```
-List keys that you have
+List keys that you have:
 ```
 $ gpg --list-keys
 ```
