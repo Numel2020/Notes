@@ -376,6 +376,9 @@ In javascript you can use a key like this
 const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\n".split(String.raw`\n`).join("\n");
 ```
 
+## VITE
+[How to Use Winston in Vite](https://dev.to/kjk93/how-to-use-winston-in-vite-3fdj)
+
 
 
 
