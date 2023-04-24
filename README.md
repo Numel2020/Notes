@@ -382,6 +382,9 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 ## React
 [useFetchWithAbort.tsx](https://gist.github.com/thathurtabit/0eed2c8568c409a5dd6a757c29f9564f)
 
+## EJS
+[Node.js Express EJS Layouts and Partials Tutorial](https://www.youtube.com/watch?v=lYVKbAn5Od0)
+
 
 
 
