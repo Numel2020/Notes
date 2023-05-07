@@ -69,6 +69,8 @@ Press cmd + 1
 
 [MongoDB Atlas Administration API (1.0)](https://www.mongodb.com/docs/atlas/reference/api-resources-spec/)
 
+[How to use indexes in Mongodb](https://www.digitalocean.com/community/tutorials/how-to-use-indexes-in-mongodb)
+
 ```javascript
 // to embed a document
 const Competitor = require("./competitor");
