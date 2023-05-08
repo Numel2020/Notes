@@ -86,7 +86,9 @@ competitor: new Schema( Competitor.schema)
 
 [How to use indexes in Mongodb](https://www.digitalocean.com/community/tutorials/how-to-use-indexes-in-mongodb)
 
-Need to manually create the index on the database to ensure that only one entry can be created.
+[mongoose duplicates with the schema key unique](https://stackoverflow.com/questions/9024176/mongoose-duplicates-with-the-schema-key-unique)
+
+How to to manually create the index on the database to ensure that only one entry can be created.
 
 ```mongodb
 
