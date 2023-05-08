@@ -69,7 +69,7 @@ Press cmd + 1
 
 [MongoDB Atlas Administration API (1.0)](https://www.mongodb.com/docs/atlas/reference/api-resources-spec/)
 
-[How to use indexes in Mongodb](https://www.digitalocean.com/community/tutorials/how-to-use-indexes-in-mongodb)
+
 
 ```javascript
 // to embed a document
@@ -84,9 +84,12 @@ competitor: new Schema( Competitor.schema)
     },
 ```
 
+[How to use indexes in Mongodb](https://www.digitalocean.com/community/tutorials/how-to-use-indexes-in-mongodb)
+
 Need to manually create the index on the database to ensure that only one entry can be created.
 
-```
+```mongodb
+
 bodybuilding> db.betausers.createIndex({"name":1},{"unique":true})
 
 ```
