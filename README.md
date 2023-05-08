@@ -84,6 +84,13 @@ competitor: new Schema( Competitor.schema)
     },
 ```
 
+Need to manually create the index on the database to ensure that only one entry can be created.
+
+```
+bodybuilding> db.betausers.createIndex({"name":1},{"unique":true})
+
+```
+
 
 ## 9. Mongoose
 [Close a mongoose connection](https://stackoverflow.com/questions/8813838/properly-close-mongooses-connection-once-youre-done)
