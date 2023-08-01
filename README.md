@@ -402,9 +402,13 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 ## CSS
 [A Modern CSS Reset](https://andy-bell.co.uk/a-modern-css-reset/)
+[CodePen Home - Accordion - height "auto" with grid](https://codepen.io/kevinpowell/pen/NWOgVga)
 
 ## BUGs
 [Issue 1412729: HTML `pattern` attribute should set `v` flag for regular expressions](https://bugs.chromium.org/p/chromium/issues/detail?id=1412729)
+
+## HTML
+[Accordion Example](https://www.w3.org/WAI/ARIA/apg/patterns/accordion/examples/accordion/#support-notice-header)
 
 
 
