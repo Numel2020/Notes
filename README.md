@@ -413,6 +413,7 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 ## Docker
 [Connecting from a Docker container to a local MongoDB](https://tsmx.net/docker-local-mongodb/#Useful_links)
+[Connecting to local mongodb from docker container](https://stackoverflow.com/questions/43800164/connecting-to-local-mongodb-from-docker-container)
 
 
 
