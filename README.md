@@ -421,5 +421,6 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 ## Docker Composer
 [The Complete Guide to Docker Secrets](https://earthly.dev/blog/docker-secrets/)
 
+[How to Handle Secrets in Docker](https://blog.gitguardian.com/how-to-handle-secrets-in-docker/)
 
 
