@@ -416,5 +416,7 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [Connecting to local mongodb from docker container](https://stackoverflow.com/questions/43800164/connecting-to-local-mongodb-from-docker-container)
 
+[Mongodb: assigning docker gateway to mongo.conf](https://www.mongodb.com/community/forums/t/mongodb-assigning-docker-gateway-to-mongo-conf/188768)
+
 
 
