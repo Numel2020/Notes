@@ -427,3 +427,5 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [Use secrets](https://docs.docker.com/compose/use-secrets/#use-secrets)
 
+[Docker secrets](https://spacelift.io/blog/docker-secrets)
+
