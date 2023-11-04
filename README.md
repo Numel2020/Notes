@@ -423,4 +423,5 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [How to Handle Secrets in Docker](https://blog.gitguardian.com/how-to-handle-secrets-in-docker/)
 
+[Secret files not mounted in /run/secrets #9822](https://github.com/docker/compose/issues/9822)
 
