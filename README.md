@@ -425,3 +425,5 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [Secret files not mounted in /run/secrets #9822](https://github.com/docker/compose/issues/9822)
 
+[Use secrets](https://docs.docker.com/compose/use-secrets/#use-secrets)
+
