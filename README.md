@@ -432,3 +432,5 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [Docker secrets](https://spacelift.io/blog/docker-secrets)
 
+[Set-secomp-to-unconfined-in-docker-compose](https://stackoverflow.com/questions/46053672/set-secomp-to-unconfined-in-docker-compose)
+
