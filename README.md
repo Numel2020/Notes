@@ -436,3 +436,5 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [daemon configuration](https://medium.com/@sujaypillai/docker-daemon-configuration-file-f577000da655)
 
+[is-there-a-difference-if-we-setup-seccomp-on-docker-daemon-or-directly-when-run](https://stackoverflow.com/questions/77150775/is-there-a-difference-if-we-setup-seccomp-on-docker-daemon-or-directly-when-runn)
+
