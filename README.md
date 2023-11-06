@@ -439,3 +439,6 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 [is-there-a-difference-if-we-setup-seccomp-on-docker-daemon-or-directly-when-run](https://stackoverflow.com/questions/77150775/is-there-a-difference-if-we-setup-seccomp-on-docker-daemon-or-directly-when-runn)
 
 [Using Secrets with Docker](https://render.com/docs/docker-secrets)
+
+### Build a dockerwith env
+[Build a dockerwith env](https://stackoverflow.com/questions/47968875/how-to-build-docker-with-env-file)
