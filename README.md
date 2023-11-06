@@ -440,5 +440,5 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [Using Secrets with Docker](https://render.com/docs/docker-secrets)
 
-### Build a dockerwith env
-[Build a dockerwith env](https://stackoverflow.com/questions/47968875/how-to-build-docker-with-env-file)
+### Build a docker with env
+[Build a docker with env](https://stackoverflow.com/questions/47968875/how-to-build-docker-with-env-file)
