@@ -442,3 +442,6 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 ### Build a docker with env
 [Build a docker with env](https://stackoverflow.com/questions/47968875/how-to-build-docker-with-env-file)
+
+### Best Practices
+[Dockerfile good practices for Node and NPM](https://adambrodziak.pl/dockerfile-good-practices-for-node-and-npm)
