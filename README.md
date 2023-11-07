@@ -450,4 +450,5 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [Best Practices for working with Dockerfiles](https://medium.com/@BeNitinAgarwal/best-practices-for-working-with-dockerfiles-fb2d22b78186)
 
-
+### Memomry Leaks
+[Possible EventEmitter memory leak detected after updating to the latest version of Node.js](https://stackoverflow.com/questions/77388219/possible-eventemitter-memory-leak-detected-after-updating-to-the-latest-version)
