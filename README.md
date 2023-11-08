@@ -453,5 +453,9 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 ### Memomry Leaks
 [Possible EventEmitter memory leak detected after updating to the latest version of Node.js](https://stackoverflow.com/questions/77388219/possible-eventemitter-memory-leak-detected-after-updating-to-the-latest-version)
 
+
 ### Docker container on aws
 [Env variables to Docker container using secrets manager, parameter store and s3 bucket env file](https://www.youtube.com/watch?v=OUp-iXpXNBA)
+
+[[Backend #27] Auto build & push docker image to AWS ECR with Github Actions](https://www.youtube.com/watch?v=3M4MPmSWt9E&t=14s)
+
