@@ -459,3 +459,5 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [[Backend #27] Auto build & push docker image to AWS ECR with Github Actions](https://www.youtube.com/watch?v=3M4MPmSWt9E&t=14s)
 
+[meanstack with atlas on fargate](https://github.com/mongodb-partners/MEANStack_with_Atlas_on_Fargate)
+
