@@ -424,6 +424,7 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [How To Remove Docker Images, Containers, and Volumes](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
 
+[Auto remove container with docker-compose.yml](https://stackoverflow.com/questions/47207616/auto-remove-container-with-docker-compose-yml)
 
 ## Docker Composer
 [The Complete Guide to Docker Secrets](https://earthly.dev/blog/docker-secrets/)
