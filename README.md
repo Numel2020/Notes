@@ -422,6 +422,8 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [Should I use docker-compose up or run?](https://stackoverflow.com/questions/33066528/should-i-use-docker-compose-up-or-run)
 
+[How To Remove Docker Images, Containers, and Volumes](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
+
 
 ## Docker Composer
 [The Complete Guide to Docker Secrets](https://earthly.dev/blog/docker-secrets/)
