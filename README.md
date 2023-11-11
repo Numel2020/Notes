@@ -420,6 +420,8 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [Seccomp security profiles for Docker](https://gdevillele.github.io/engine/security/seccomp/)
 
+[Should I use docker-compose up or run?](https://stackoverflow.com/questions/33066528/should-i-use-docker-compose-up-or-run)
+
 
 ## Docker Composer
 [The Complete Guide to Docker Secrets](https://earthly.dev/blog/docker-secrets/)
