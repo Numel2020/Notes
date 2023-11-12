@@ -466,3 +466,6 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [meanstack with atlas on fargate](https://github.com/mongodb-partners/MEANStack_with_Atlas_on_Fargate)
 
+
+### MONGO to AWS
+[Connect AWS IAM to MongoDB Atlas - Tutorial](https://www.mongodb.com/community/forums/t/connect-aws-iam-to-mongodb-atlas-tutorial/221683)
