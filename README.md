@@ -471,3 +471,5 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 [Connect AWS IAM to MongoDB Atlas - Tutorial](https://www.mongodb.com/community/forums/t/connect-aws-iam-to-mongodb-atlas-tutorial/221683)
 
 [Set Up Unified AWS Access](https://www.mongodb.com/docs/atlas/security/set-up-unified-aws-access/#:~:text=Log%20in%20to%20your%20AWS,from%20the%20list%20of%20roles.)
+
+[Connect mongodb from AWS lambda python using IAM](https://stackoverflow.com/questions/75591618/connect-mongodb-from-aws-lambda-python-using-iam)
