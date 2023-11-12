@@ -474,5 +474,7 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [Connect mongodb from AWS lambda python using IAM](https://stackoverflow.com/questions/75591618/connect-mongodb-from-aws-lambda-python-using-iam)
 
-[Meanstack with Atlas on fargate]|(https://github.com/mongodb-partners/MEANStack_with_Atlas_on_Fargate/tree/main)
+[Meanstack with Atlas on fargate](https://github.com/mongodb-partners/MEANStack_with_Atlas_on_Fargate/tree/main)
+
+[How to connect mongodb to an ec2 application](https://stackoverflow.com/questions/71635788/how-to-connect-to-mongodb-atlas-cluster-from-an-ec2-application)
 
