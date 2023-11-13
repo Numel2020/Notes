@@ -484,3 +484,11 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 [AWS ECS Error: No Container Instances were found in your cluster](https://stackoverflow.com/questions/36523282/aws-ecs-error-when-running-task-no-container-instances-were-found-in-your-clust)
 
 [How to Deploy a Docker App to AWS ECS](https://www.youtube.com/watch?v=YDNSItBN15w)
+
+### How to learn AWS
+[How To Learn AWS? Starting Points for Devops, Frontend, Backend, and DE Career Paths](https://www.youtube.com/watch?v=N8lcedBPmE8)
+
+#### 1. Regions and Availibility Zones
+#### 2. Identity & Access management (IAM)
+#### 3. Cloudwatch Logs
+#### 4. Cloud Development Kit (CDK) / CloudFormation
