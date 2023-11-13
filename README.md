@@ -490,6 +490,7 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 #### 1. Regions and Availibility Zones
 #### 2. Identity & Access management (IAM)
+[AWS IAM Core Concepts You NEED to Know](https://www.youtube.com/watch?v=_ZCTvmaPgao)
 #### 3. Cloudwatch Logs
 #### 4. Cloud Development Kit (CDK) / CloudFormation
 #### 5. Virtual Private Cloud
