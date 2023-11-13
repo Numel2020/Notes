@@ -479,5 +479,8 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 [How to connect mongodb to an ec2 application](https://stackoverflow.com/questions/71635788/how-to-connect-to-mongodb-atlas-cluster-from-an-ec2-application)
 
 
+
 ### AWS setups
 [AWS ECS Error: No Container Instances were found in your cluster](https://stackoverflow.com/questions/36523282/aws-ecs-error-when-running-task-no-container-instances-were-found-in-your-clust)
+
+[How to Deploy a Docker App to AWS ECS](https://www.youtube.com/watch?v=YDNSItBN15w)
