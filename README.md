@@ -492,3 +492,8 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 #### 2. Identity & Access management (IAM)
 #### 3. Cloudwatch Logs
 #### 4. Cloud Development Kit (CDK) / CloudFormation
+#### 5. Virtual Private Cloud
+#### 6. Security Groups
+#### 7. Simple Storage Service (S3)
+#### 8. ECS
+#### 9. Certificate Manager
