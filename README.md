@@ -499,4 +499,5 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 #### 6. Security Groups
 #### 7. Simple Storage Service (S3)
 #### 8. ECS
+[AWS Tutorial on Amazon EC2](https://www.youtube.com/watch?v=8bIW7qlldLg&t=3505s)
 #### 9. Certificate Manager
