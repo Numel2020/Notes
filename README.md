@@ -495,6 +495,7 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 #### 3. Cloudwatch Logs
 #### 4. Cloud Development Kit (CDK) / CloudFormation
 #### 5. Virtual Private Cloud
+[AWS VPC Setup - Step by step](https://www.youtube.com/watch?v=GWUMWy1JM0Y&t=460s)
 #### 6. Security Groups
 #### 7. Simple Storage Service (S3)
 #### 8. ECS
