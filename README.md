@@ -489,6 +489,7 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 [How To Learn AWS? Starting Points for Devops, Frontend, Backend, and DE Career Paths](https://www.youtube.com/watch?v=N8lcedBPmE8)
 
 #### 1. Regions and Availibility Zones
+[EC2 - Video 1 - Understanding Regions and Availability Zone (AZ)](https://www.youtube.com/watch?v=NNHz0h5OyU4)
 #### 2. Identity & Access management (IAM)
 [AWS IAM Core Concepts You NEED to Know](https://www.youtube.com/watch?v=_ZCTvmaPgao)
 #### 3. Cloudwatch Logs
