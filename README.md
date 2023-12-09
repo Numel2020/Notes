@@ -501,3 +501,6 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 #### 8. ECS
 [AWS Tutorial on Amazon EC2](https://www.youtube.com/watch?v=8bIW7qlldLg&t=3505s)
 #### 9. Certificate Manager
+
+### Running Puppeteer on AWS Fargate
+[Running Puppeteer on AWS Fargate](https://www.flightcontrol.dev/docs/tips/deployment/puppeteer)
