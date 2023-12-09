@@ -522,5 +522,7 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 [puppeteer failed to launch the browser process spawn](https://stackoverflow.com/questions/64117723/puppeteer-failed-to-launch-the-browser-process-spawn)
 
+[How I used Node & Puppeteer with Docker to generate PDFs](https://medium.com/@christopher.talke/using-node-puppeteer-with-docker-without-wanting-to-smash-your-keyboard-ed78e9529a8b)
+
 ### Running Puppeteer on AWS Fargate
 [Running Puppeteer on AWS Fargate](https://www.flightcontrol.dev/docs/tips/deployment/puppeteer)
