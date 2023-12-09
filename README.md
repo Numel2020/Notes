@@ -501,6 +501,17 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 #### 8. ECS
 [AWS Tutorial on Amazon EC2](https://www.youtube.com/watch?v=8bIW7qlldLg&t=3505s)
 #### 9. Certificate Manager
+## puppeteer
+[Puppeterr troubleshooting](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
+[puppeteer error error while loading shared libraries libgobject-2-0-so-0](https://stackoverflow.com/questions/66070860/puppeteer-error-error-while-loading-shared-libraries-libgobject-2-0-so-0)
+[How to use puppeteer inside a docker container 568c](https://dev.to/cloudx/how-to-use-puppeteer-inside-a-docker-container-568c)
+[puppeteer issues 5662](https://github.com/puppeteer/puppeteer/issues/5662)
+[puppeteer issues 10388#issuecomment-1614005261](https://github.com/puppeteer/puppeteer/issues/10388#issuecomment-1614005261)
+[puppeteer issues 11435](https://github.com/puppeteer/puppeteer/issues/11435)
+[puppeteer issues failed to launch the browser process puppeteer](https://itecnote.com/tecnote/r-error-failed-to-launch-the-browser-process-puppeteer/)
+[puppeteer error error while loading shared libraries libgobject-2-0-so-0](https://stackoverflow.com/questions/66070860/puppeteer-error-error-while-loading-shared-libraries-libgobject-2-0-so-0)
+[puppeteer troubleshooting#running-puppeteer-in-docker](https://pptr.dev/troubleshooting#running-puppeteer-in-docker)
+[puppeteer failed to launch the browser process spawn](https://stackoverflow.com/questions/64117723/puppeteer-failed-to-launch-the-browser-process-spawn)
 
 ### Running Puppeteer on AWS Fargate
 [Running Puppeteer on AWS Fargate](https://www.flightcontrol.dev/docs/tips/deployment/puppeteer)
