@@ -526,3 +526,6 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 ### Running Puppeteer on AWS Fargate
 [Running Puppeteer on AWS Fargate](https://www.flightcontrol.dev/docs/tips/deployment/puppeteer)
+
+### React query
+[breaking react querys api on purpose](https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose)
