@@ -529,3 +529,7 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 
 ### React query
 [breaking react querys api on purpose](https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose)
+
+### Server Side Rendering
+#### Hydration
+[Text content does not match server-rendered HTML](https://nextjs.org/docs/messages/react-hydration-error)
