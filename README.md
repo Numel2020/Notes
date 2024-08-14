@@ -533,3 +533,6 @@ const key ="-----BEGIN PRIVATE KEY-----\nMIIEu...rzI\n-----END PRIVATE KEY-----\
 ### Server Side Rendering
 #### Hydration
 [Text content does not match server-rendered HTML](https://nextjs.org/docs/messages/react-hydration-error)
+
+### SVG
+[svg logo heading and accessability](https://stackoverflow.com/questions/65999289/svg-logo-heading-and-web-accessibility)
